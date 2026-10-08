@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.github.xiumini2799_oss.twa",
+      "sha256_cert_fingerprints": [
+        "여기에_플레이콘솔_앱서명키_SHA-256_지문을_붙여넣기"
+      ]
+    }
+  }
+]
